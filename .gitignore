@@ -259,3 +259,14 @@ paket-files/
 # Python Tools for Visual Studio (PTVS)
 __pycache__/
 *.pyc
+/Library
+/Temp/UnityTempFile-e1618ab35edeec44c990f7928e68e83a
+/Temp/UnityTempFile-d3420196989de384398fe76a4f758f1d
+/Temp/UnityTempFile-ba69e810e9070424f9d4af1014ef8d65
+/Temp/UnityTempFile-b40b2ee516e59b34e9dcc349dd7e9b80
+/Temp/UnityTempFile-a0717fc951ac23046ac6370c5131e32f
+/Temp/UnityTempFile-73b6e63fe3c9f9e4689668200db0d221
+/Temp/UnityLockfile
+/Temp/ProcessJobs/ab30c7bcae888f8a20ac9ec5bfbfa3a6.bakert
+/Temp/ProcessJobs
+/Temp
