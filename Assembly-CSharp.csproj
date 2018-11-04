@@ -65,6 +65,8 @@
     <Compile Include="Assets\Scripts\CircleGizmo.cs" />
     <Compile Include="Assets\Scripts\CubeSphere.cs" />
     <Compile Include="Assets\Scripts\Grid.cs" />
+    <Compile Include="Assets\Scripts\MeshDeformer.cs" />
+    <Compile Include="Assets\Scripts\MeshDeformerInput.cs" />
     <Compile Include="Assets\Scripts\RoundedCube.cs" />
     <None Include="Assets\Materials\Rounded Cube Grid.shader" />
     <Reference Include="Unity.TextMeshPro.Editor">
